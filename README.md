@@ -36,7 +36,7 @@ This guide covers the best proprietary no-code tools (**Softr, Glide, Noloco, St
 
 *Open-source tools prioritized where they match or exceed proprietary capabilities for most users.*
 
-## Proprietary Tools
+## Proprietary Tools/SaaS
 
 ### Glide
 Spreadsheet-first builder for polished mobile/web apps. Excellent real-time sync with Google Sheets/Excel/Airtable. Ideal for internal tools, directories, and simple client apps.
