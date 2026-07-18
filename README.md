@@ -55,35 +55,38 @@ This guide covers the best proprietary no-code tools (**Softr, Glide, Noloco, St
 
 These are the stars for **data ownership, customization, zero ongoing SaaS fees** (beyond hosting), and extensibility. Deploy via Docker in minutes on your VPS, Kubernetes, or cloud.
 
-### Budibase
+### NocoDB [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+- Turns any database (Postgres, MySQL, etc.) into a smart spreadsheet with no-code UI.
+- Forms, views (kanban, gallery), API generation — closest Airtable/Glide OSS feel.
+- Extremely popular for spreadsheet-to-app workflows.
+
+### Appsmith [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
+- Drag-and-drop for admin panels, dashboards, and CRUD apps.
+- JavaScript extensibility, 100+ integrations, Git version control.
+- Excellent Retool open-source alternative; self-host or cloud.
+
+### ToolJet [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)
+- Visual low-code builder with broad connectors and AI assistance.
+- Ideal for internal tools and data-heavy apps.
+
+### Budibase [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
 - Low-code platform for internal tools, dashboards, forms, and workflows.
 - Connect to databases, APIs, Google Sheets; built-in auth & permissions.
 - Self-host easily; great UI builder.
 - GitHub: Highly active community.
 
-### Appsmith
-- Drag-and-drop for admin panels, dashboards, and CRUD apps.
-- JavaScript extensibility, 100+ integrations, Git version control.
-- Excellent Retool open-source alternative; self-host or cloud.
-
-### NocoDB
-- Turns any database (Postgres, MySQL, etc.) into a smart spreadsheet with no-code UI.
-- Forms, views (kanban, gallery), API generation — closest Airtable/Glide OSS feel.
-- Extremely popular for spreadsheet-to-app workflows.
-
-### ToolJet
-- Visual low-code builder with broad connectors and AI assistance.
-- Ideal for internal tools and data-heavy apps.
-
-### NocoBase
+### NocoBase [![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)
 - Data model-driven no-code for complex apps (CRM, ERP-like).
 - Powerful permissions, plugins, and customization.
 
-### Baserow & Mathesar
-- **Baserow**: Open-source Airtable with app-building capabilities.
-- **Mathesar**: Spreadsheet-style interface directly on PostgreSQL — perfect for non-technical users turning DBs into apps.
+### Mathesar [![GitHub stars](https://img.shields.io/github/stars/centerofci/mathesar?style=social&color=white)](https://github.com/centerofci/mathesar/stargazers)
+- Spreadsheet-style interface directly on PostgreSQL — perfect for non-technical users turning DBs into apps.
+
+### Baserow [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
+- Open-source Airtable with app-building capabilities.
 
 **Other notables**: Refine (React-based internal tools), Directus (headless + admin), Saltcorn (simple no-code web apps).
+
 
 ## Getting Started Recommendations
 
