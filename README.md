@@ -8,6 +8,11 @@ SEO Keywords: spreadsheet to website, google sheets to web app, airtable to port
   <img src="assets/banner.svg" alt="Awesome Spreadsheet to Website - Convert Google Sheets & Airtable to Web Apps" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+
 ## 🚀 Top Spreadsheet to Website / App Builders (2026)
 
 Discover how to transform your **Google Sheets, Excel, or Airtable databases** into functional, beautiful websites, custom client portals, internal dashboards, and full-featured web/mobile applications without writing code.
