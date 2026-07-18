@@ -119,5 +119,15 @@ These are the stars for **data ownership, customization, zero ongoing SaaS fees*
 
 💪 **Focus on open-source for freedom** — own your data and avoid recurring costs. Happy building! 🚀
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Spreadsheet-To-Website&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Spreadsheet-To-Website&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Spreadsheet-To-Website&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Spreadsheet-To-Website&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 *Last updated: July 2026. Inspired by community comparisons.*
-Inspired by community comparisons.*
