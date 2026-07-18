@@ -38,16 +38,17 @@ This guide covers the best proprietary no-code tools (**Softr, Glide, Noloco, St
 
 ## Proprietary Tools/SaaS
 
-| Tool | Description & Best For | Starting Price | Free Tier Limit |
-|---|---|---|---|
-| **Glide** | Spreadsheet-first builder for polished mobile/web apps. Real-time sync with Google Sheets/Excel/Airtable. | $25+/mo | Prototyping only (no live publishing), 1 editor, 25,000 rows, 500MB storage, Glide tables only |
-| **Softr** | Build client portals, membership sites, and business tools on Airtable or Google Sheets. | $49+/mo | 1 published app, 10 logged-in users, 1,000 external records (5,000 Softr DB records) |
-| **Noloco** | Client-facing portals with advanced permissions, workflows, and operations tools. | $149+/mo | 3 team members, 7 client seats, 2,000 records, 7 pages, Noloco Tables/Google Sheets/CSV only |
-| **Stacker** | AI-assisted portals and business apps with deep data handling. | $50+/mo | Free trial only ($100 starter credits or 30-day trial); no permanent free-forever tier |
-| **AppSheet (Google)** | Native integration with Google Workspace. Great for field apps and mobile with offline support. | $5+/user/mo | Prototyping/test mode: up to 10 users, 5 databases, 1,000 rows per database |
-| **Bubble** | Full-stack no-code for complex apps, marketplaces, and custom logic. | $29+/mo | Prototyping only: no custom domain, Bubble branding, limited Workload Units (WU), no live publishing |
-| **Adalo** | Native mobile apps with drag-and-drop builder. | $36+/mo | Prototyping only: 200–500 database records, no publishing, Adalo branding |
-| **SpreadSimple** | Quick SEO-friendly sites with carts, filters, and checkout from Google Sheets. | $13+/mo | 3 free websites, 50 rows per sheet, 10 content pages, sandbox payments only, SpreadSimple branding |
+| Tool | Description & Best For | Starting Price | Free Tier Limit | Company Size (Valuation/Est.) |
+|---|---|---|---|---|
+| **AppSheet (Google)** | Native integration with Google Workspace. Great for field apps and mobile with offline support. | $5+/user/mo | Prototyping/test mode: up to 10 users, 5 databases, 1,000 rows per database | $2T+ (Parent Alphabet Inc.) / $400M+ Acq. |
+| **Bubble** | Full-stack no-code for complex apps, marketplaces, and custom logic. | $29+/mo | Prototyping only: no custom domain, Bubble branding, limited Workload Units (WU), no live publishing | $1.7B - $2B |
+| **Adalo** | Native mobile apps with drag-and-drop builder. | $36+/mo | Prototyping only: 200–500 database records, no publishing, Adalo branding | $180M - $200M |
+| **Softr** | Build client portals, membership sites, and business tools on Airtable or Google Sheets. | $49+/mo | 1 published app, 10 logged-in users, 1,000 external records (5,000 Softr DB records) | $150M - $220M |
+| **Glide** | Spreadsheet-first builder for polished mobile/web apps. Real-time sync with Google Sheets/Excel/Airtable. | $25+/mo | Prototyping only (no live publishing), 1 editor, 25,000 rows, 500MB storage, Glide tables only | $100M+ |
+| **Stacker** | AI-assisted portals and business apps with deep data handling. | $50+/mo | Free trial only ($100 starter credits or 30-day trial); no permanent free-forever tier | $80M+ |
+| **Noloco** | Client-facing portals with advanced permissions, workflows, and operations tools. | $149+/mo | 3 team members, 7 client seats, 2,000 records, 7 pages, Noloco Tables/Google Sheets/CSV only | $10M - $15M |
+| **SpreadSimple** | Quick SEO-friendly sites with carts, filters, and checkout from Google Sheets. | $13+/mo | 3 free websites, 50 rows per sheet, 10 content pages, sandbox payments only, SpreadSimple branding | $3M - $5M |
+
 
 
 ## Open-Source & Self-Hosted Alternatives (Primary Focus)
